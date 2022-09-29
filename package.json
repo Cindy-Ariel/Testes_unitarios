@@ -1,0 +1,22 @@
+{
+  "name": "testes_unitarios",
+  "version": "1.0.0",
+  "description": "",
+  "main": "desafio.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cindy-Ariel/Testes_unitarios.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cindy-Ariel/Testes_unitarios/issues"
+  },
+  "homepage": "https://github.com/Cindy-Ariel/Testes_unitarios#readme",
+  "devDependencies": {
+    "jest": "^29.1.1"
+  }
+}
